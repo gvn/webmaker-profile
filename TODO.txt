@@ -1,0 +1,11 @@
+- move templates.js to compiled
++ remove templates.js from VC? (it's a compiled file)
+- use kate's webmaker-less package via bower
+- can Watch work just for added/removed files (for JS inclusion task)?
+- why isn't Komponent exporting? (currently it's a global)
+
++ move require to lib folder
++ update jquery version (use bower?)
++ add require optimizer
++ integrate Require
++ bump package versions

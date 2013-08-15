@@ -1,7 +1,0 @@
-.DS_Store
-node_modules
-bower_components
-TODO.txt
-_fe/compiled/
-index.html
-index.dev.html

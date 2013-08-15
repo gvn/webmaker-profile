@@ -1,0 +1,26 @@
+{
+  "name": "jade",
+  "repo": "visionmedia/jade",
+  "description": "Jade template runtime",
+  "version": "0.34.1",
+  "keywords": [
+    "template"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "lib/runtime.js"
+  ],
+  "main": "lib/runtime.js",
+  "homepage": "https://github.com/visionmedia/jade",
+  "_release": "0.34.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.34.1",
+    "commit": "bd68213a249666d1814410c4fbe9ec13c98d1baa"
+  },
+  "_source": "git://github.com/visionmedia/jade.git",
+  "_target": "~0.34.1",
+  "_direct": true
+}

@@ -1,0 +1,14 @@
+{
+  "name": "komponent",
+  "homepage": "https://github.com/gvn/komponent",
+  "version": "0.3.1",
+  "_release": "0.3.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.3.1",
+    "commit": "63b06a786677bf94f5270d10e4ce095a1f5eae65"
+  },
+  "_source": "git://github.com/gvn/komponent.git",
+  "_target": "~0.3.1",
+  "_direct": true
+}
