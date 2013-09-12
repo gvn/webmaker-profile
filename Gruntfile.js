@@ -140,7 +140,9 @@ module.exports = function (grunt) {
   grunt.registerTask('build', [
     'jshint',
     'less:production',
+    'less:development',
     'jade:compileJSTemplates',
+    'jade:development',
     'jade:production',
     'requirejs'
   ]);
